@@ -16,7 +16,7 @@
   --success-color: #00A65A;
   --danger-color: #982929;
   --url-color: var(--main-color);
-  --background-image: url('https://media.discordapp.net/attachments/602267686440927244/1068387262905192489/12.png?width=953&height=676');
+  --background-image: url('https://imgur.com/gallery/x7eCPhc');
   --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
