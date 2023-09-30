@@ -1,5 +1,5 @@
 /**
- * @name Perfecttheme
+ * @name Theme I think
  * @author ClearVision Team
  * @version 6.1.1
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -16,7 +16,7 @@
   --success-color: #00A65A;
   --danger-color: #982929;
   --url-color: var(--main-color);
-  --background-image: url('https://imgur.com/gallery/x7eCPhc');
+  --background-image: url('https://pbs.twimg.com/media/F7ERNsoWEAA__Hp?format=jpg&name=large');
   --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
