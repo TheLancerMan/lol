@@ -16,7 +16,7 @@
   --success-color: #00A65A;
   --danger-color: #982929;
   --url-color: var(--main-color);
-  --background-image: url('file:///E:/Parody%20Stuff/Garo/test6.jpg');
+  --background-image: url('https://imgur.com/a/uYbOkM7');
   --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
