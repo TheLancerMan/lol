@@ -16,7 +16,7 @@
   --success-color: #00A65A;
   --danger-color: #982929;
   --url-color: var(--main-color);
-  --background-image: url('https://cdn.discordapp.com/attachments/602267686440927244/1249859328245235712/test6.jpg?ex=6668d5b5&is=66678435&hm=be330593ef05b3f7a564074a4f820fd417e328463590a57146a7145ef9998a02&');
+  --background-image: url('file:///E:/Parody%20Stuff/Garo/test6.jpg');
   --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
